@@ -10,3 +10,6 @@
 [Práctica Limpieza de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Ej_Limpieza_4.ipynb)
 
 [Primera entrega del PIA](https://github.com/ricardo-botello11/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo_4.ipynb)
+
+## Fase II
+[Presentación de técnica de Mineria de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Presentación_Visualización_4.pdf.pdf)
