@@ -15,3 +15,5 @@
 [Presentación de técnica de Mineria de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Presentación_Visualización_4.pdf.pdf)
 
 [Miniexamen](https://github.com/vanessaleal27/Mineria-de-Datos/blob/main/Calificaci%C3%B3n_Visualizaci%C3%B3n_Equipo-4.pdf)
+
+[Mapa Mental II](https://github.com/ricardo-botello11/Mineria-de-Datos/blob/main/MapaMental_2_1847012.pdf)
