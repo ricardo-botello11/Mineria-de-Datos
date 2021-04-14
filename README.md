@@ -17,3 +17,7 @@
 [Miniexamen](https://github.com/vanessaleal27/Mineria-de-Datos/blob/main/Calificaci%C3%B3n_Visualizaci%C3%B3n_Equipo-4.pdf)
 
 [Mapa Mental II](https://github.com/ricardo-botello11/Mineria-de-Datos/blob/main/MapaMental_2_1847012.pdf)
+
+[Práctica Visualización](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Visualizacion_Equipo4.ipynb)
+
+[Segunda entrega del PIA](https://github.com/ricardo-botello11/Mineria-de-Datos/blob/main/AvancePIA_II_Grupo2_4.ipynb)
