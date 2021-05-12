@@ -21,3 +21,6 @@
 [Práctica Visualización](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Visualizacion_Equipo4.ipynb)
 
 [Segunda entrega del PIA](https://nbviewer.jupyter.org/github/ricardo-botello11/Mineria-de-Datos/blob/main/AvancePIA_II_002_4.ipynb)
+
+## Fase III
+[PIA](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/PIA_002_Equipo4.pdf)
